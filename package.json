@@ -1,7 +1,7 @@
 {
   "name": "cod-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Discord bot for Call of Duty 1. Made by Sadman",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

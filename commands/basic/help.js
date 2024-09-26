@@ -54,7 +54,7 @@ module.exports = {
                     categoryEmbed = {
                         color: '#0099ff',
                         title: 'Status Commands',
-                        description: `${prefix}servers <game> <version> - Get a list of active servers.\nGame: cod, coduo\nVersion: 1.1, 1.5, 1.41, 1.51`,
+                        description: `${prefix}servers <game> <version> - Get a list of active servers.\n${prefix}getstatus <server ip> <server port>\nGame: cod, coduo\nVersion: 1.1, 1.5, 1.41, 1.51`,
                     };
                     break;
                 case 'codes_help':

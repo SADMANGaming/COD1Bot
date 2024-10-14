@@ -13,3 +13,4 @@
 - **Discord.js**: The bot is built using the Discord.js library for interacting with the Discord API.
 - **Node.js**: The runtime environment for executing the bot.
 - **CoDPM API**: Fetching server data from external APIs.
+- **ChatGPT**: Regex, fetching method

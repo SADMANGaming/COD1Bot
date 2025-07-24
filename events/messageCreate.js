@@ -19,3 +19,11 @@ module.exports = {
         }
     },
 };
+/*
+function codChat(){
+    if (message.author.bot) return;
+    if (message.channel.id === CHANNEL_ID) {
+        rcon.send('say ^5[Discord]^7' + message.author.username + '^3: ^7' + message.content, (response) => {
+    });
+  }
+}*/
